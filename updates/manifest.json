@@ -1,7 +1,7 @@
 {
-  "programVersion": "1.0.0",
+  "programVersion": "1.0.1",
   "dataVersion": "1.0.1",
-  "hasProgramUpdate": false,
+  "hasProgramUpdate": true,
   "hasDataUpdate": false,
-  "message": "No update"
+  "message": "New program update available"
 }
